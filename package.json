@@ -1,0 +1,22 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "testing with jest for lab session 9",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christina3107/testing-with-jest.git"
+  },
+  "author": "Christina3107",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christina3107/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/Christina3107/testing-with-jest#readme"
+}
